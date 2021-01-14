@@ -1,0 +1,61 @@
+{
+  "Name": "name1",
+  "Items": 
+  [
+    { "Message": "Message" },
+    {
+      "Name": "Name",
+      "Placeholder": "Placeholder",
+      "Required": true,
+      "Type": 2,
+      "Value": "123@mail.ru",
+      "Label": "label",
+      "Class": "class1",
+      "Disabled": true
+    },
+    {
+      "Name": "Name",
+      "Placeholder": "Placeholder",
+      "Required": true,
+      "Type": 2,
+      "Value": null,
+      "Label": "label",
+      "Class": "class1",
+      "Disabled": true,
+      "Checked": true
+    },
+    {
+      "Class": "css-Class",
+      "Text": "Text"
+    },
+    {
+      "Name": "Name",
+      "Placeholder": "Placeholder",
+      "Required": true,
+      "Type": 2,
+      "Value": "123@mail.ru",
+      "Label": "label",
+      "Class": "class1",
+      "Disabled": true,
+      "Options": {
+        "Value": "Value",
+        "Text": "Text",
+        "Selected": true
+      }
+    },
+    {
+      "Name": "Name",
+      "Placeholder": "Placeholder",
+      "Required": true,
+      "Type": 2,
+      "Value": "123@mail.ru",
+      "Label": "label",
+      "Class": "class1",
+      "Disabled": true,
+      "Options": {
+        "Value": "Value",
+        "Text": "Text",
+        "Selected": true
+      }
+    }
+  ],"Postmessage":"OK!"}
